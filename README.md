@@ -10,7 +10,7 @@ I'm also the co-founder and CTO of [Titanom](https://github.com/titanom).
 You're most likely here for one of my books.
 
 [The Python Minibook](https://github.com/uhasker/the-python-minibook) is aimed at people looking to get into programming.
-It's a self-contained introduction to the one of the most popular programming languages (Python).
+It's a self-contained introduction to one of the most popular programming languages (Python).
 At the end you'll develop your own project, a little computer game. 🎉
 
 [Getting Things Done in Next.js](https://uhasker.github.io/getting-things-done-in-next-js/) is a complete introduction to one of the most mainstream web development stacks.
