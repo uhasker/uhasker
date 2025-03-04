@@ -23,9 +23,15 @@ It's quite technical, but also quite accessible even if you're not really good a
 [Introduction to Linux](https://nachthammer.github.io/introduction-to-linux) is an introduction to Linux for complete beginners.
 We wrote this book together with the awesome [@nachthammer](https://github.com/nachthammer).
 
+## Medium
+
+I have a Medium with multiple technical publications:
+
+- [Thinking Sand](https://medium.com/thinking-sand) which contains AI, news, explainers, opinions and links
+- [More Python](https://medium.com/more-python) which contains a lot of Python guides both for beginners and advanced software engineers
+- [No-Nonsense Information Security](https://medium.com/no-nonsense-information-security) which contains no-nonsense to information security
+
 ## Substack
 
 I have a [Substack](https://mikhailberkov.substack.com/) where I give advice to young knowledge workers.
 Sometimes I also make jokes there, some of which might be _moderately_ funny.
-
-I also have another [Substack](https://thinkingsand.substack.com/) with articles about AI for a non-technical audience.
