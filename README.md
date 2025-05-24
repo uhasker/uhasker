@@ -29,7 +29,6 @@ I have a Medium with multiple technical publications:
 
 - [Thinking Sand](https://medium.com/thinking-sand) which contains AI, news, explainers, opinions and links
 - [More Python](https://medium.com/more-python) which contains a lot of Python guides both for beginners and advanced software engineers
-- [No-Nonsense Information Security](https://medium.com/no-nonsense-information-security) which contains no-nonsense to information security
 
 ## Substack
 
